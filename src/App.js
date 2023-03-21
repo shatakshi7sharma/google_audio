@@ -25,6 +25,7 @@ function App() {
   const [blocked, setBlocked] = useState(false);
 
   const onEnd = () => {
+    
     // You could do something here after listening has finished
   };
 
